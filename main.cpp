@@ -1,7 +1,6 @@
 
 #include <iostream>
 #include <cstring>
-#include <stdexcept>
 #include <vector>
 
 using namespace std;
